@@ -143,7 +143,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uhPALGmHis_ivpPRdaCl-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJrF4VuwuTOzUl-eug8C-98" vertex="1">
+        <mxCell id="uhPALGmHis_ivpPRdaCl-76" value="Crossing Fresnel (SL)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJrF4VuwuTOzUl-eug8C-98" vertex="1">
           <mxGeometry x="390" width="90" height="40" as="geometry">
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -430,7 +430,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uhPALGmHis_ivpPRdaCl-105" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJrF4VuwuTOzUl-eug8C-125" vertex="1">
+        <mxCell id="uhPALGmHis_ivpPRdaCl-105" value="Crossing Fresnel (SR)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="VJrF4VuwuTOzUl-eug8C-125" vertex="1">
           <mxGeometry x="210" width="90" height="40" as="geometry">
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
